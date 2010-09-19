@@ -4,7 +4,7 @@ jQuery outerHTML plugin
 Usage
 ------------
   
-  $('<div>').text("example").outerHTML() # <div>example</div>
+  $('&lt;div&gt;').text("example").outerHTML() # &lt;div&gt;example&lt;/div&gt;
 
 Native function support
 ------------
