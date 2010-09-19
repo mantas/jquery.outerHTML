@@ -4,6 +4,8 @@
  Uses native outerHTML function if available (Chrome, Safari and IE), falls back to pure-JS implementation in other
        
  Mantas Masalskis, mantas@idev.lt
+
+ Licensed under MIT license
  
  http://github.com/mantas/jquery.outerHTML
 */
